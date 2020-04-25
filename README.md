@@ -1,2 +1,2 @@
 # COVID-19
-Analyzing COVID-19 epidemic in Indian subcontinenet
+Analyzing spread of COVID-19 epidemic in Indian subcontinent and predicting its multi-dimensional impact.
